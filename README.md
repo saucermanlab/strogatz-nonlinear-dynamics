@@ -3,4 +3,7 @@ By Jeff Saucerman, 12/30/2025
 
 Code in Python, Jupyter Notebook and HTML formats. 
 
+
 The code currently covers most of the relevant plots in main figures for Chapters 2-8, with less coverage of more complex oscillations, example problems, or Chaos (section 3).
+
+<img width="603" height="453" alt="nonlinear_pendulum" src="https://github.com/user-attachments/assets/832121de-aa4b-4166-80b8-b5c77c39eb67" />
